@@ -31,5 +31,3 @@ Para usar este projeto como exemplo:
 4. Faça uma solicitação POST para `http://localhost:8080/middle/teste` com dados JSON no corpo da solicitação para ver o exemplo em ação.
 
 5. A resposta será uma mensagem que inclui o status da resposta e a resposta do servlet.
-
-Isso conclui a descrição de alto nível de como o código funciona e como usá-lo em seu projeto Spring Boot. Certifique-se de ajustar o código e as configurações de acordo com suas necessidades específicas.
